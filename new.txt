@@ -1,0 +1,1000 @@
+ 1064  sudo cat /var/log/jenkins/jenkins.log
+ 1065  sudo cat /var/log/jenkins/jenkins.log | tail -n 50
+ 1066  sudo netstat -tulnp | grep 8080
+ 1067  kill 34399
+ 1068  man netstat
+ 1069  sudo netstat -tulnp | grep 8080
+ 1070  sudo vim /etc/default/jenkins
+ 1071  sudo systemctl restart jenkins
+ 1072  ps aux | grep jenkins
+ 1073  exit
+ 1074  apt list grep | "jenkins"
+ 1075  man apt
+ 1076  sudo apt list grep | jenk
+ 1077  apt list grep | "sql"
+ 1078  history
+ 1079  apt list | grep "jenkins"
+ 1080  sudo wget -O /usr/share/keyrings/jenkins-keyring.asc   https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key
+ 1081  jenkins
+ 1082  https://pkg.jenkins.io/debian-stable binary/ | sudo tee
+ 1083  echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]"   https://pkg.jenkins.io/debian-stable binary/ | sudo tee   /etc/apt/sources.list.d/jenkins.list > /dev/null
+ 1084  sudo apt-get update
+ 1085  sudo apt-get install jenkins
+ 1086  jenkins --version
+ 1087  jenkins
+ 1088  ps jenkins
+ 1089  ps ==help
+ 1090  ps --help
+ 1091  man ps
+ 1092  cat /var/lib/jenkins/secrets/initialAdminPassword
+ 1093  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+ 1094  systemctl status jenkins
+ 1095  kill 14924
+ 1096  sudo kill 14
+ 1097  sudo kill 14924
+ 1098  jenkins
+ 1099  userlist
+ 1100  man systemclt
+ 1101  man systemctl
+ 1102  man open
+ 1103  man mv
+ 1104  jenkins
+ 1105  jenkins 
+ 1106  exit
+ 1107  ps aux | grep jenkins
+ 1108  find jenkins.war
+ 1109  type jenkins
+ 1110  ll /usr/bin
+ 1111  ll /usr/bin | grep "jenkins"
+ 1112  jenkins
+ 1113  cd /usr/share/java
+ 1114  ls
+ 1115  java "-Dhudson.plugins.git.GitSCM.ALLOW_LOCAL_CHECKOUT=true" jenkins.war 
+ 1116  ll
+ 1117  systemctl cat jenkins
+ 1118  sudo vim /usr/lib/systemd/system/jenkins.service
+ 1119  sudo vim /lib/systemd/system/jenkins.service 
+ 1120  java "-Dhudson.plugins.git.GitSCM.ALLOW_LOCAL_CHECKOUT=true" -jar jenkins.war 
+ 1121  exit
+ 1122  man find
+ 1123  find "jenkins"
+ 1124  find "jenkin"
+ 1125  cd /etc
+ 1126  ls
+ 1127  ls | grep "jen"
+ 1128  cd default/
+ 1129  ls | grep "jen"
+ 1130  cd jenkins
+ 1131  ls
+ 1132  cat jenkins
+ 1133  sudo vim jenkins 
+ 1134  ls /lib/systemd
+ 1135  cd /lib/systemd/system
+ 1136  ls
+ 1137  sudo vim jenkins.service 
+ 1138  ext=it
+ 1139  exit
+ 1140  history
+ 1141  history | grep "vim"
+ 1142  sudo vim /etc/default/jenkins 
+ 1143  type git
+ 1144  cd /usr/bin
+ 1145  ll | grep "git"
+ 1146  which git
+ 1147  git -C /mnt/7C76FA3B76F9F5AC/Class/2025winter/DevMngt/projects/Time branch -a
+ 1148  exit
+ 1149  settings
+ 1150  jenkins
+ 1151  rsettings 
+ 1152  jenkins
+ 1153  sudo jenkins
+ 1154  cat /root/.jenkins/secrets/initialAdminPassword
+ 1155  sudo cat /root/.jenkins/secrets/initialAdminPassword
+ 1156  settings
+ 1157  rsettings 
+ 1158  jenkins 
+ 1159  settings
+ 1160  hisotyr
+ 1161  hisotry
+ 1162  history
+ 1163  cd /usr/share/java
+ 1164  ls
+ 1165  settings
+ 1166  rsettings 
+ 1167  jenkins
+ 1168  cd /usr/
+ 1169  ls
+ 1170  cd local
+ 1171  ls
+ 1172  find "jenkins.war"
+ 1173  which "jenkins.war"
+ 1174  cd ~
+ 1175  jenkins
+ 1176  exit
+ 1177  jenkins
+ 1178  sudo apt upgrade
+ 1179  sudo apt update
+ 1180  ls -l /etc/apt/keyrings/
+ 1181  /etc/apt/keyrings/brave-browser-archive-keyring.gpg
+ 1182  cat /etc/apt/keyrings/brave-browser-archive-keyring.gpg
+ 1183  man apt-secure
+ 1184  man wget
+ 1185  wget https://repo.mysql.com/RPM-GPG-KEY-mysql-2023
+ 1186  sudo apt-key add RPM-GPG-KEY-mysql-2023
+ 1187  sudo apt update && sudo apt install curl gnupg -y
+ 1188  sudo apt remove brave
+ 1189  man apt-key 
+ 1190  sudo apt-key adv --keyserver hkp://pool.sks-keyservers.net:80 --recv-keys C85668DF69375001
+ 1191  /tmp/apt-key-gpghome.ZZviDKOiUm/gpg.1.sh --keyserver hkp://pool.sks-keyservers.net:80 --recv-keys C85668DF69375001
+ 1192  man apt-secure
+ 1193  /var/lib/apt# diff -r lists lists.old
+ 1194  cd /var/lib
+ 1195  ls
+ 1196  ls | grep "apt"
+ 1197  cat apt
+ 1198  cd apt
+ 1199  ls
+ 1200  cd lists
+ 1201  ls
+ 1202  cd /tmp/
+ 1203  wget -c http://dl.google.com/linux/linux_signing_key.pub
+ 1204  sudo apt-key add linux_signing_key.pub
+ 1205  wget -c https://packages.microsoft.com/keys/microsoft.asc
+ 1206  sudo apt-key add microsoft.asc
+ 1207  wget -c https://www.postgresql.org/media/keys/ACCC4CF8.asc
+ 1208  sudo apt-key add ACCC4CF8.asc
+ 1209  sudo apt -update
+ 1210  sudo apt update
+ 1211  sudo apt apt-key --keyserver keyserver.ubuntu.com --recv-keys C85668DF69375001
+ 1212  sudo apt-key --keyserver keyserver.ubuntu.com --recv-keys C85668DF69375001
+ 1213  sudo apt-key update
+ 1214  type trusted.gpg.d
+ 1215  trusted.gpg.d
+ 1216  sudo apt upgrade
+ 1217  sudo apt update
+ 1218  sudo apt-key list
+ 1219  cd /etc/apt/keyrings/
+ 1220  ls
+ 1221  cd ..
+ 1222  ls
+ 1223  cat trusted.gpg
+ 1224  cat trusted.gpg.d
+ 1225  cd trusted.gpg.d/
+ 1226  ls
+ 1227  sudo apt-key list
+ 1228  exit
+ 1229  mv
+ 1230  man mv
+ 1231  cd Documents/
+ 1232  ls
+ 1233  mv test test22
+ 1234  ls
+ 1235  mv new.text test22
+ 1236  mv new.txt test22
+ 1237  ls
+ 1238  cd test22
+ 1239  ls
+ 1240  mv test.sh ..
+ 1241  ls
+ 1242  cd ..
+ 1243  ls
+ 1244  man cp
+ 1245  cp test.sh
+ 1246  cp test.sh copytest
+ 1247  ls
+ 1248  rm copytest 
+ 1249  ls
+ 1250  cp test22 test22_copy
+ 1251  ls
+ 1252  ls -f dir
+ 1253  man ls
+ 1254  ls -R test22
+ 1255  ls -R 
+ 1256  ll | grep "^d"
+ 1257  lld
+ 1258  ll -R | grep "^d"
+ 1259  ls -R | grep "^d"
+ 1260  ls -R
+ 1261  ll -R | grep "^d"
+ 1262  ls -R | grep "^d"
+ 1263  llf
+ 1264  settings
+ 1265  rsettings 
+ 1266  lsd
+ 1267  exit
+ 1268  lsd
+ 1269  cd Documents/
+ 1270  lsd
+ 1271  ls
+ 1272  settings
+ 1273  rsettings 
+ 1274  lsd
+ 1275  settings
+ 1276  rsettings 
+ 1277  lsd
+ 1278  lsf
+ 1279  settings
+ 1280  rsettings 
+ 1281  lsf
+ 1282  lsd
+ 1283  cd test22/
+ 1284  lsd
+ 1285  lsf
+ 1286  man awk
+ 1287  awk
+ 1288  cd ..
+ 1289  $ ls -l | grep '^-' | awk '{print $NF}'
+ 1290  ls -l | grep '^-' | awk '{print $NF}'
+ 1291  settings
+ 1292  rsettings 
+ 1293  settings
+ 1294  rsettings 
+ 1295  lsd
+ 1296  settings
+ 1297  rsettings 
+ 1298  lsd
+ 1299  lsf
+ 1300  ls -l | grep '^-' | awk '{print $NF}'
+ 1301  settigns
+ 1302  settings
+ 1303  exit
+ 1304  lsd
+ 1305  lsf
+ 1306  cd Documents/
+ 1307  lsd
+ 1308  lld
+ 1309  clear
+ 1310  man head
+ 1311  man head | head
+ 1312  man tail | tail
+ 1313  man head | tail
+ 1314  man head
+ 1315  man head | head -n 3
+ 1316  man head | head -n -3
+ 1317  man head | tail -n -3
+ 1318  man head | tail -n 3
+ 1319  man head
+ 1320  man head | head --lines=2
+ 1321  man head | head --lines=-2
+ 1322  man tail
+ 1323  man date
+ 1324  date
+ 1325  man dae
+ 1326  man date
+ 1327  date s '%m %a %b'
+ 1328  date s '%a %b'
+ 1329  date -s '%a %b'
+ 1330  man date
+ 1331  date -s '%a'
+ 1332  date -s "%a"
+ 1333  date -f "%a"
+ 1334  man date
+ 1335  date -d "%a"
+ 1336  man date
+ 1337  date -d "[%a]"
+ 1338  date -s "[%a]"
+ 1339  date -d +"%a"
+ 1340  date +"%a"
+ 1341  date +"%a %M %d"
+ 1342  man date
+ 1343  man wc
+ 1344  cd Documents/
+ 1345  ls
+ 1346  wc todo.txt 
+ 1347  cat todo.txt 
+ 1348  vim todo.txt 
+ 1349  wc todo.txt 
+ 1350  ll todo.txt 
+ 1351  ls -h todo.txt 
+ 1352  ls -lh todo.txt 
+ 1353  ls -alh todo.txt 
+ 1354  man ls
+ 1355  man wc
+ 1356  code todo.txt 
+ 1357  claer
+ 1358  clear
+ 1359  wc todo.txt 
+ 1360  wc -c todo.txt 
+ 1361  wc -m todo.txt 
+ 1362  wc -l todo.txt 
+ 1363  wc -L todo.txt 
+ 1364  wc -w todo.txt 
+ 1365  ls -l | wc
+ 1366  date | wc
+ 1367  ls
+ 1368  cat today.txt todo.txt | wc
+ 1369  cat today.txt todo.txt
+ 1370  cat today.txt todo.txt | wc -l > number.txt
+ 1371  cat number.txt 
+ 1372  cat today.txt todo.txt | wc -c > number.txt
+ 1373  cat number.txt 
+ 1374  vim grocery.txt
+ 1375  cat grocery.txt
+ 1376  vim daily.txt
+ 1377  cat daily.txt grocery.txt >> shoppinglist.txt
+ 1378  cat shoppinglist.txt 
+ 1379  wc shoppinglist.txt 
+ 1380  wc -l shoppinglist.txt 
+ 1381  wc -w shoppinglist.txt 
+ 1382  wc -c shoppinglist.txt 
+ 1383  wc -m shoppinglist.txt 
+ 1384  sort shoppinglist.txt 
+ 1385  sort -r shoppinglist.txt 
+ 1386  exit
+ 1387  class
+ 1388  cd DevMngt/
+ 1389  cd projects/
+ 1390  cd test/
+ 1391  man wc
+ 1392  man pipping
+ 1393  man wc
+ 1394  man sort
+ 1395  ls -la | grep ".*"
+ 1396  lsf
+ 1397  lsf -a
+ 1398  ls | grep "bash"
+ 1399  ls -a | grep "bash"
+ 1400  cat .bash_profile
+ 1401  settings
+ 1402  rsettings 
+ 1403  settings
+ 1404  rsettings 
+ 1405  cd class
+ 1406  class
+ 1407  cd DevMngt/
+ 1408  cd projects/
+ 1409  cd test/
+ 1410  settings
+ 1411  rsettings 
+ 1412  settings
+ 1413  rsettings 
+ 1414  settings
+ 1415  cd ..
+ 1416  class
+ 1417  man uniq
+ 1418  exit
+ 1419  cd Documents/
+ 1420  ls
+ 1421  cat grocery.txt >> grocery.txt 
+ 1422  code .
+ 1423  wc grocery.txt 
+ 1424  unique grocery.txt 
+ 1425  uniq grocery.txt 
+ 1426  uniq todo.txt 
+ 1427  clear
+ 1428  cat grocery.txt 
+ 1429  uniq grocery.txt 
+ 1430  uniq grocery.txt | wc
+ 1431  wc grocery.txt 
+ 1432  cat grocery.txt | wc
+ 1433  uniq -c grocery.txt 
+ 1434  uniq -d grocery.txt 
+ 1435  uniq -dc grocery.txt 
+ 1436  uniq -D grocery.txt 
+ 1437  uniq -cD grocery.txt 
+ 1438  uniq -f 1 grocery.txt 
+ 1439  uniq -f 2 grocery.txt 
+ 1440  uniq -fc 2 grocery.txt 
+ 1441  uniq -cf 2 grocery.txt 
+ 1442  uniq -c grocery.txt 
+ 1443  uniq -u grocery.txt 
+ 1444  uniq -cu grocery.txt 
+ 1445  uniq -cdu grocery.txt 
+ 1446  uniq -cd grocery.txt 
+ 1447  exit
+ 1448  postman
+ 1449  kill jenkins
+ 1450  sudo lsof -i :8080
+ 1451  kill 1281
+ 1452  sudo kill 1281
+ 1453  sudo lsof -i :8080
+ 1454  sudo kill 69115
+ 1455  sudo lsof -i :8085
+ 1456  sudo kill 65032
+ 1457  man lsof
+ 1458  man jobs
+ 1459  man job
+ 1460  man du
+ 1461  man df
+ 1462  who
+ 1463  alias
+ 1464  alias | wc -l
+ 1465  sudo lsof -i :8085
+ 1466  sudo lsof -i :1
+ 1467  sudo lsof -i :3000
+ 1468  sudo lsof -i :
+ 1469  sudo lsof -i :80
+ 1470  exit
+ 1471  ~
+ 1472  echo ~
+ 1473  $PATH
+ 1474  echo $PATH
+ 1475  echo $HOMW
+ 1476  echo $HOME
+ 1477  echo $ENVIRONMENT
+ 1478  echo $USER
+ 1479  LS
+ 1480  ls
+ 1481  echo *
+ 1482  echo *.txt
+ 1483  cd Documents/
+ 1484  echo *.txt
+ 1485  echo *.??
+ 1486  clear
+ 1487  touch app.{js,py,css}
+ 1488  ls app.*
+ 1489  echo {1..10}
+ 1490  clear
+ 1491  echo {1..10}
+ 1492  man diff
+ 1493  exit
+ 1494  cd Documents/
+ 1495  ls
+ 1496  echo today.txt
+ 1497  cat today.txt 
+ 1498  cp today.txt today2.txt
+ 1499  cat "new line" >> today2.txt 
+ 1500  echo "new line" >> today2.txt 
+ 1501  diff today.txt today2.txt 
+ 1502  code .
+ 1503  diff today2.txt today.txt 
+ 1504  diff -u today2.txt today.txt 
+ 1505  exit
+ 1506  postman
+ 1507  man find
+ 1508  exit
+ 1509  man find
+ 1510  cd Documents/
+ 1511  find . type d
+ 1512  find . -type d
+ 1513  find . -type f
+ 1514  find .
+ 1515  find . '*.txt'
+ 1516  find . -name '*.txt'
+ 1517  find -type d -name 'te*'
+ 1518  find -type d -name '*e*'
+ 1519  find -type f -name 'te*'
+ 1520  find -type f -iname 'te*'
+ 1521  find -type f -iname 'E*'
+ 1522  find -type f -iname 'TE*'
+ 1523  find -type f -iname 'TE*' -exec cat {} \
+ 1524  find -type f -iname 'TE*' -exec cat {}
+ 1525  find -type f -iname 'TE*' -exec cat {} \;
+ 1526  find -type f -exec cat {} \;
+ 1527  find . -type f -exec cat {} \;
+ 1528  ll
+ 1529  cd test22/
+ 1530  ls
+ 1531  find . -type f -exec cat {} \;
+ 1532  cd ..
+ 1533  find . -type f -name '*.txt' -exec cat {} \;
+ 1534  find . -type d -exec cat {} \;
+ 1535  clear
+ 1536  exit
+ 1537  sudo lsof -i :50000
+ 1538  sudo lsof -i :5000
+ 1539  mysql -u root -p
+ 1540  postman
+ 1541  as
+ 1542  history | grep "dconf"
+ 1543  history | grep "conf"
+ 1544  dconf load /org/cinnamon/ < /mnt/7C76FA3B76F9F5AC/Backup/cinnamon-backup/cinnamon-settings.dconf
+ 1545  backup 
+ 1546  cd Documents/
+ 1547  ls
+ 1548  du
+ 1549  du -b
+ 1550  history | grep dconf
+ 1551  history less
+ 1552  history | less
+ 1553  grep -rnC 1  
+ 1554  grep -rnC 1  "apple" .
+ 1555  cd ..
+ 1556  du .
+ 1557  cd Documents/
+ 1558  du .
+ 1559  man du
+ 1560  du -k .
+ 1561  du -m .
+ 1562  man du
+ 1563  du -h .
+ 1564  settings
+ 1565  rsettings 
+ 1566  du
+ 1567  du -g
+ 1568  du -g .
+ 1569  du -m .
+ 1570  du -mh .
+ 1571  du -h  | sort
+ 1572  du -h  | sort -n
+ 1573  du -h  | sort -h
+ 1574  df
+ 1575  df -h
+ 1576  man df
+ 1577  df todo.txt 
+ 1578  df -h todo.txt 
+ 1579  ps
+ 1580  man ps
+ 1581  cd /mnt/7C76FA3B76F9F5AC/
+ 1582  ls
+ 1583  du NOTES
+ 1584  ls | grep -i "backup"
+ 1585  cd Backup/
+ 1586  ls
+ 1587  code 
+ 1588  code .
+ 1589  cd ..
+ 1590  cp -r ./NOTES /home/hsy/Dropbox/NOTES
+ 1591  backup 
+ 1592  top
+ 1593  kill -l
+ 1594  ps -ax
+ 1595  ps -a
+ 1596  ps -x
+ 1597  ps a
+ 1598  jenkins
+ 1599  man mv 
+ 1600  mv ./IoT_Reference/ /mnt/7C76FA3B76F9F5AC/Class/2025winter/Capstone/
+ 1601  cd /usr
+ 1602  ls
+ 1603  cd bin
+ 1604  ls
+ 1605  type postman
+ 1606  cd /etc/udev/rules.d/
+ 1607  ls
+ 1608  vim 99-arduino.rules
+ 1609  sudo vim 99-arduino.rules
+ 1610  ls
+ 1611  cat 99-arduino.rules 
+ 1612  sudo ln /opt/arduino-ide_2.3.4/arduino-ide /usr/bin/arduino
+ 1613  arduino
+ 1614  sudo apt list 
+ 1615  arduino
+ 1616  sudo apt list | grep "libffmpeg"
+ 1617  sudo apt-install libffmpeg
+ 1618  sudo apt install libffmpeg
+ 1619  cd /usr/bin/
+ 1620  ls | grep "ardui"
+ 1621  sudo rm arduino
+ 1622  ls | grep "ardui"
+ 1623  sudo ln /opt/arduino/arduino-ide_2.3.4_Linux_64bit.AppImage /usr/bin/arduino
+ 1624  arduino
+ 1625  sudo 
+ 1626  cd /etc
+ 1627  ls
+ 1628  cd /opt
+ 1629  ls
+ 1630  cd arduino-ide_2.3.4/
+ 1631  ls
+ 1632  sudo arduino.ide
+ 1633  sudo ./arduino.ide
+ 1634  ll
+ 1635  arduino-ide
+ 1636  man ln
+ 1637  cd ..
+ 1638  rm -r arduino-ide_2.3.4/
+ 1639  sudo rm -r arduino-ide_2.3.4/
+ 1640  ls
+ 1641  exit
+ 1642  ps -a
+ 1643  kill 127448
+ 1644  top
+ 1645  class
+ 1646  cd test/
+ 1647  linuxbible
+ 1648  ll
+ 1649  man chmod
+ 1650  sudo chmod u+x Readest_0.9.17_amd64.AppImage
+ 1651  ll
+ 1652  Readest_0.9.17_amd64.AppImage
+ 1653  sudo apt list | grep "appimage"
+ 1654  man mv
+ 1655  mv Readest_0.9.17_amd64.AppImage /opt/Readest
+ 1656  sudo mv Readest_0.9.17_amd64.AppImage /opt/Readest
+ 1657  history | grep "ln"
+ 1658  cd /opt/
+ 1659  ls
+ 1660  ll
+ 1661  mkdir readest
+ 1662  sudo mkdir readest
+ 1663  sudo mv Readest readest/
+ 1664  ls
+ 1665  cd readest
+ 1666  sudo ln /opt/readest/Readest /usr/bin/readest
+ 1667  readest
+ 1668  man ls
+ 1669  exit
+ 1670  ipconfig
+ 1671  ifconfig
+ 1672  man ifconfig
+ 1673  man ps
+ 1674  sudo man ps
+ 1675  ps
+ 1676  ps -a
+ 1677  ps -e
+ 1678  ps u
+ 1679  ps r
+ 1680  ps a
+ 1681  ps 
+ 1682  ps -ax
+ 1683  clear
+ 1684  ps u
+ 1685  pwd
+ 1686  ps u
+ 1687  ps 
+ 1688  ps a
+ 1689  ps -u
+ 1690  ps -r
+ 1691  ps ax
+ 1692  ps ax | less
+ 1693  ps -u
+ 1694  ps -eo pid,user,uid,group,gid,vsz,rss,comm | less
+ 1695  top
+ 1696  CLEAR
+ 1697  clear
+ 1698  mtop
+ 1699  utop
+ 1700  clear
+ 1701  sudo apt install utop
+ 1702  utop
+ 1703  top
+ 1704  jbos
+ 1705  jobs
+ 1706  vim Documents/todo.txt &
+ 1707  jobs
+ 1708  fg 2
+ 1709  fg 1
+ 1710  jobs
+ 1711  exit
+ 1712  stat /dev/ttyACM0 
+ 1713  sudo usermod -a -G dialout hsy
+ 1714  stat /dev/ttyACM0 
+ 1715  arduino
+ 1716  goldendict
+ 1717  history
+ 1718  stat /dev/ttyACM0 
+ 1719  arduino
+ 1720  ls -l /dev/ttyACM*
+ 1721  sudo chmod u+x /dev/ttyACM0
+ 1722  ls -l /dev/ttyACM*
+ 1723  ll
+ 1724  ls -l /dev/ttyACM*
+ 1725  sudo chmod a+rw /dev/ttyACM0
+ 1726  ls -l /dev/ttyACM*
+ 1727  man ifconfig
+ 1728  ssh
+ 1729  man ssh
+ 1730  clear
+ 1731  sudo systemctl sshd
+ 1732  man lsof
+ 1733  man nc
+ 1734  ps -e
+ 1735  man ps 
+ 1736  clear
+ 1737  ps -e | grep ssh
+ 1738  ps -ax | grep ssh
+ 1739  ssh
+ 1740  systemctl status sshd
+ 1741  sudo systemctl start sshd
+ 1742  sudo apt install openssh-client
+ 1743  sudo apt udate
+ 1744  sudo apt update
+ 1745  sudo apt upgrade
+ 1746  apt 
+ 1747  sudo apt autoclean
+ 1748  sudo apt autoremove
+ 1749  clear
+ 1750  sudo systemctl start sshd
+ 1751  ssh pi@192.168
+ 1752  ssh pi@192.168.40.41
+ 1753  ssh pi@raspberrypi
+ 1754  history
+ 1755  ssh pi@192.168.40.41
+ 1756  sudo systemctl restart ssh
+ 1757  ssh pi@192.168.40.41
+ 1758  ssh pi@192.168.1.100
+ 1759  ssh pi@192.168.40.41
+ 1760  ssh pi@192.168.1.100
+ 1761  sudo ssh pi@192.168.1.100
+ 1762  clear
+ 1763  ssh pi@192.168.40.41
+ 1764  ssh pi@raspberrypi.local
+ 1765  history | grep pi
+ 1766  2012
+ 1767  echo 2012
+ 1768  echo $2012
+ 1769  settings
+ 1770  rsettings 
+ 1771  backup
+ 1772  man update-alternatives
+ 1773  sudo apt update
+ 1774  sudo apt autoremove
+ 1775  sudo apt update
+ 1776  uname 
+ 1777  man uname
+ 1778  uname -a
+ 1779  sudo apt update
+ 1780  apt list --upgradable
+ 1781  sudo apt upgrade
+ 1782  apt list --upgradable
+ 1783  sudo apt upgrade mysql-server
+ 1784  sudo install libaio1
+ 1785  sudo apt update
+ 1786  dpkg --print-architecture 
+ 1787  dpkg --print-foreign-architectures
+ 1788  sudo dpkg --remove-architecture i386
+ 1789  dpkg --print-foreign-architectures
+ 1790  sudo dpkg --remove-architecture i386
+ 1791  dpkg --list | grep :i386
+ 1792  mysql --version
+ 1793  mysql -u root -p
+ 1794  systemctl status mysql
+ 1795  sudo systemctl start mysql
+ 1796  journalctl -xeu mysql
+ 1797  sudo cat /var/log/mysql/error.log
+ 1798  goldendict
+ 1799  mysql -u root -p
+ 1800  cd /var/run/mysqld
+ 1801  cd /var/run
+ 1802  ls
+ 1803  ls | grep sql
+ 1804  ls
+ 1805  mysql -u root -p
+ 1806  sudo mkdir -p /var/run/mysqld
+ 1807  cd mysqld/
+ 1808  ls
+ 1809  sudo chown mysql:mysql /var/run/mysqld
+ 1810  sudo chmod 755 /var/run/mysqld
+ 1811  mysql -u root -p
+ 1812  sudo systemctl start mysql
+ 1813  systemctl status mysql.service 
+ 1814  ls -l /usr/share/mysql/mysql-systemd-start
+ 1815  sudo apt remove --purge mysql-server mysql-client mysql-common
+ 1816  cd 
+ 1817  sudo apt remove --purge mysql-server mysql-client mysql-common
+ 1818  sudo rm -rf /etc/mysql /var/lib/mysql /var/log/mysql
+ 1819  sudo apt update
+ 1820  sudo apt install mysql-server
+ 1821  sudo apt autoremove
+ 1822  sudo apt install mysql-server
+ 1823  sudo apt update
+ 1824  sudo apt install mysql-server
+ 1825  sudo apt install libaio-dev
+ 1826  sudo apt install mecab-ipadic-utf8
+ 1827  sudo apt install mysql-server
+ 1828  sudo apt --fix-broken install
+ 1829  sudo apt install mysql-server
+ 1830  apt search libaio
+ 1831  sudo apt install libaiolt64
+ 1832  sudo apt install libaio1t64
+ 1833  sudo apt install libaio-dev
+ 1834  sudo apt upgrade
+ 1835  sudo apt update
+ 1836  sudo apt install mysql-server
+ 1837  mysql --version
+ 1838  mysql -u root -p
+ 1839  mysql --version
+ 1840  sudo systemctl status mysql
+ 1841  ls -l /usr/sbin/mysqld
+ 1842  ll /usr/sbin | grep sql
+ 1843  ll /usr/sbin/ | grep sql
+ 1844  cd /usr/sbin
+ 1845  ls
+ 1846  sudo cat /var/log/mysql/error.log
+ 1847  ls -ld /var/lib/mysql
+ 1848  apt list --installed | grep sql
+ 1849  sudo apt remove mysql-apt-config 
+ 1850  sudo apt remove mysql-community-client-core 
+ 1851  sudo apt remove mysql-community-client-plugins 
+ 1852  sudo apt autoremove
+ 1853  sudo apt update
+ 1854  sudo apt install mysql-server
+ 1855  mysql --version
+ 1856  mysql -u root -p
+ 1857  apt list --installed | grep sql
+ 1858  sudo apt remove --purge mysql-server mysql-client mysql-common mysql-server-core-* mysql-client-core-*
+ 1859  apt list --installed | grep sql
+ 1860  sudo apt remove --purge mysql-*
+ 1861  apt list --installed | grep sql
+ 1862  sudo apt autoremove
+ 1863  sudo apt clean
+ 1864  sudo dpkg --configure -a
+ 1865  sudo dpkg --remove --force-all mysql-server
+ 1866  sudo apt --fix-broken install
+ 1867  sudo apt update
+ 1868  sudo apt install mysql-server
+ 1869  mysql -u root -p
+ 1870  mysql --version
+ 1871  systemctl status mysql
+ 1872  sudo mysql -u root
+ 1873  mysql -u root -p
+ 1874  sudo mysql -u root
+ 1875  mysql -u root -p
+ 1876  backup
+ 1877  history
+ 1878  ssh raspberrypi@10.16.25.65
+ 1879  ssh pi@10.16.25.65
+ 1880  history | grep pi
+ 1881  ssh pi@raspberrypi.local
+ 1882  cd /dev
+ 1883  ls
+ 1884  cd ttyACM0
+ 1885  ll ttyACM0
+ 1886  ll ttyll ttyACM0
+ 1887  sudo chmod a+wr ttyACM0 
+ 1888  ll ttyll ttyACM0
+ 1889  arduino
+ 1890  sudo arduino
+ 1891  arduino
+ 1892  goldendict
+ 1893  backup
+ 1894  ifconfig
+ 1895  clear
+ 1896  ifconfig
+ 1897  man ifconfig
+ 1898  ifconfig address
+ 1899  ifconfig -s
+ 1900  ifconfig
+ 1901  ifconfig | less
+ 1902  ifconfig | grep ip
+ 1903  man netstat
+ 1904  netstat
+ 1905  netstat | less
+ 1906  history | grep pi
+ 1907  ssh pi@169.254.251.24
+ 1908  ifconfig
+ 1909  ssh pi@169.254.251.24
+ 1910  ssh pi@10.23.169.255
+ 1911  ssh pi@10.23.169.55
+ 1912  ssh raspberrypi@10.23.169.55
+ 1913  ip a show
+ 1914  ssh pi@10.23.169.55
+ 1915  ssh pi@169.254.
+ 1916  ssh pi@169.254.251.24
+ 1917  cd /dev
+ 1918  ls | grep ttyACM0 
+ 1919  ll ttyACM0 
+ 1920  sudo chmod a+w ttyACM0 
+ 1921  ll ttyACM0 
+ 1922  sudo chmod a+wx ttyACM0 
+ 1923  ll ttyACM0 
+ 1924  sudo chmod a+rwx ttyACM0 
+ 1925  ssh pi@10.23.169.55
+ 1926  ssh pi@10.23.169.55
+ 1927  ifconfig
+ 1928  ssh pi@169.254.251.24
+ 1929  ssh pi@10.23.169.55
+ 1930  ping www.google.com
+ 1931  history | grep pi
+ 1932  ssh pi@raspberrypi.local
+ 1933  ssh pi@169.254.251.24
+ 1934  ping www.google.com
+ 1935  ping 169.254.251.24
+ 1936  ssh pi@10.23.169.55
+ 1937  arduino
+ 1938  cd /dev
+ 1939  ll | grep ttyACM0 
+ 1940  sudo chmod a+wx ttyACM0 
+ 1941  ll | grep ttyACM0 
+ 1942  sudo chmod a+rwx ttyACM0 
+ 1943  ll | grep ttyACM0 
+ 1944  exit
+ 1945  dconf load /org/cinnamon/ < /mnt/7C76FA3B76F9F5AC/Backup/cinnamon-backup/cinnamon-settings.dconf
+ 1946  history | systemctl
+ 1947  history | grep systemctl
+ 1948  systemclt status jenkins
+ 1949  systemctl status jenkins
+ 1950  man systemctl
+ 1951  man passwd
+ 1952  passwd
+ 1953  man systemd
+ 1954  man systemd | less -10
+ 1955  man systemd | head -10
+ 1956  man systemctl | head -1
+ 1957  man systemctl | head -10
+ 1958  clear
+ 1959  ps ax
+ 1960  ps ax | less
+ 1961  ps ax | grep systemd
+ 1962  systemctl --version
+ 1963  man systemd
+ 1964  man systemctl
+ 1965  systemctl status jenkins
+ 1966  systemctl status node
+ 1967  systemctl status mongodb
+ 1968  systemctl status mongo
+ 1969  systemctl status sql
+ 1970  systemctl status mysql
+ 1971  man systemctl
+ 1972  man systemd
+ 1973  systemctl status mysql
+ 1974  sudo systemctl status mysql
+ 1975  cd /usr/lib/system
+ 1976  cd /usr/lib/
+ 1977  ls
+ 1978  cd systemd
+ 1979  ls
+ 1980  ls | grep mysql
+ 1981  ls | grep jen
+ 1982  ll
+ 1983  cd system
+ 1984  ls
+ 1985  ls | grep jen
+ 1986  vim jenkins.service 
+ 1987  systemctl list-unit-files --type=service
+ 1988  vim jenkins.service 
+ 1989  systemctl list-unit-files --type=service
+ 1990  lsof | grep Memo
+ 1991  lsof | grep Memo.txt
+ 1992  lsof
+ 1993  lsof | less
+ 1994  lsof | wc -l
+ 1995  lsof -i :8080
+ 1996  sudo lsof -i :8080
+ 1997  lsof -i :8080
+ 1998  sudo lsof | wc -l
+ 1999  lsof -u hsy
+ 2000  ps ax | less
+ 2001  man lsof
+ 2002  lsof -i :jenkins
+ 2003  lsof -i jenkins
+ 2004  lsof -i tcp
+ 2005  lsof -i http
+ 2006  lsof -i https
+ 2007  lsof -i tcp
+ 2008  lsof -i ssh
+ 2009  man -lsof
+ 2010  man lsof
+ 2011  lsof -i mysqkl
+ 2012  lsof -i mysql
+ 2013  man lsof
+ 2014  sudo px ax | grep mysql
+ 2015  sudo ps ax | grep mysql
+ 2016  lsof -i mysqld
+ 2017* lsof mysqld
+ 2018  man lsof
+ 2019  sudo /var/lib/jenkins/secrets/initialAdminPassword
+ 2020  cat /var/lib/jenkins/secrets/initialAdminPassword
+ 2021  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+ 2022  type git
+ 2023  type java
+ 2024  cd /usr/bin
+ 2025  ls
+ 2026  ls -l | grep git
+ 2027  ls git
+ 2028  cd git
+ 2029  git
+ 2030  bash git
+ 2031  ./git
+ 2032  .git --version
+ 2033  ./git --version
+ 2034  sudo systemctl restart jenkins
+ 2035  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+ 2036  sudo cat /var/jenkins_home/secrets/initialAdminPassword
+ 2037  cd /var
+ 2038  ls
+ 2039  type java
+ 2040  cd /usr/lib/jvm/jdk-21.0.5+11/
+ 2041  ls
+ 2042  cd bin/
+ 2043  ls
+ 2044  ll
+ 2045  cd 
+ 2046  ls
+ 2047  man ssh
+ 2048  man ssh-keygen
+ 2049  sudo ssh-keygen
+ 2050  cd /root/.ssh
+ 2051  sudo cd /root/.ssh
+ 2052  sudo cd /root
+ 2053  sudo su
+ 2054  class
+ 2055  ls
+ 2056  cd DevMngt/
+ 2057  cd projects/
+ 2058  mkdir githubtest
+ 2059  cd githubtest/
+ 2060  git init
+ 2061  history head -10 > new.txt
+ 2062  history head 10 > new.txt
+ 2063  history > new.txt
